@@ -159,3 +159,45 @@ body {
     font-size: 1rem;
     color: #ccc;
 }
+
+.portfolio h2 {
+  color: #d4af37;
+  font-size: 2rem;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.projeto {
+  border: 2px solid #d4af37;
+  border-radius: 20px;
+  padding: 30px;
+  max-width: 700px;
+  margin: 0 auto;
+  background-color: #111111;
+  text-align: center;
+}
+
+.projeto h3 {
+  color: #d4af37;
+  margin-bottom: 20px;
+}
+
+.projeto p {
+  color: #ffffff;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+.projeto a {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #d4af37;
+  color: #000000;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.projeto a:hover {
+  opacity: 0.8;
+}
